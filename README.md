@@ -14,7 +14,6 @@
 
 <p align="center">📫 How to reach me: <strong>abhibhatt862@gmail.com</strong></p>
 
-
 ---
 
 ### 📬 Connect with Me:
@@ -30,7 +29,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center" style="background-color: #f9f9f9; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" />
     </a>
@@ -50,11 +49,12 @@
       <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" />
     </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android" />
+      <img src="https://img.icons8.com/fluency/48/000000/android-os.png" alt="android" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" />
     </a>
+    <!-- Second line of logos starts here -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" />
     </a>
@@ -66,6 +66,21 @@
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop" />
+    </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="48" height="48" fill="black" style="display: inline-block; vertical-align: middle;"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 1L16 15H0L8 1Z"></path></svg>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" />
+    </a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/90px-Android_Studio_Logo_2024.svg.png" width="48" height="48" alt=android-studio/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" />
+    </a>
+    <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.libsdl.org/media/SDL_logo.png" width="48" height="48" alt="SDL2" />
     </a>
   </div>
 </div>
@@ -88,6 +103,7 @@
 </p>
 
 ---
+
 <br>
 
 <p align= "center"> Feel free to explore my repositories for more projects and contributions!</p>
